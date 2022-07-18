@@ -1,0 +1,16 @@
+1 auto
+2 bus
+3 car
+4 fire
+5 jeep
+6 knife 
+7 mini_truck
+8 motorcycle
+9 person
+10 petrol bomb
+11 pistol
+12 smartphone
+13 smoke
+14 truck
+15 van
+
